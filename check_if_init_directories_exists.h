@@ -1,0 +1,4 @@
+#ifndef check_if_init_directories_exists_h
+#define check_if_init_directories_exists_h
+int check_if_init_directories_exists();
+#endif

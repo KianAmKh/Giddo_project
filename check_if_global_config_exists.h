@@ -1,0 +1,4 @@
+#ifndef check_if_global_config_exists_h
+#define check_if_global_config_exists_h
+int check_if_global_config_exists();
+#endif
